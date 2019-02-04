@@ -1,11 +1,13 @@
 # 3D Robot Pose Estimation from 2D Images
 
-This repository contains data accompanying our work on robot pose estimation from 2D images. The following illustration is from our paper (to be published). The following [short video](https://www.youtube.com/watch?v=1BrgI_nI8nE&feature=youtu.be) shows how our model generalizes from artificial training data to real world images. The model was trained on 10.000 non-realistic images of robots (joint angle-range [-30,30] degrees).
+This repository contains data accompanying our work on robot pose estimation from 2D images. The following illustration is from our paper (to be published).
 
 <p align="center">
     <img src="overview.PNG"/><br/>
     From our paper "3D Robot Pose Estimation from 2D Images", Heindl et al.
 </p>
+
+The following [short video](https://www.youtube.com/watch?v=1BrgI_nI8nE&feature=youtu.be) shows how our model generalizes from artificial training data to real world images. The model was trained on 10.000 non-realistic images of robots (joint angle-range [-30,30] degrees).
 
 ## Architecture Details
 While we don't share source code at this time, we provide architecture details of our models.
